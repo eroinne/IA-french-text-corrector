@@ -1,5 +1,4 @@
-# Making a text corrector power essgetere
-
+# Making a text corrector 
 
 
 ## model making 
