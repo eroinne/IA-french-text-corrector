@@ -1,10 +1,10 @@
 # Making a text corrector 
 
 
-## model making 
+## donner making 
 
 
-## consigne
+### consigne
 
 2 text -> un corriger un avec des faute 
 chaque ligne correptonde entre elle
@@ -15,9 +15,6 @@ pour renfocer mes donner j'utilise un programe qui reucepre ce que j'ecrit au co
 ce programe sert a l'ia pour s'adapter a ma fason d'ecrire est a rencforcer les donner que je peux lui fournir
 il ecoute donc toute les entre de text pour que apres je les fasse coriger pour remplire sa basse de donner 
 
-
-
-
 2k phrase banale 
 3k on place des englisisme 
 3k on place des apect technique de l'informatiuqe  
@@ -26,8 +23,15 @@ il ecoute donc toute les entre de text pour que apres je les fasse coriger pour 
 8k ce seront des phrase que j'ai moi meme ecrite pour qu'il repert mon type de faute est puissent s'adapter 
 
 
+### toekisation / noramlisation 
+Divisez les textes en tokens
 
-### test 
+## model 
+-  Transformer
+
+
+
+## test 
 
 phrase de referance : 
 "je suis un savent fou, un chercheur de l'amour fou" 

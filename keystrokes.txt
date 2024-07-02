@@ -31,5 +31,9 @@ Dailleur je te retransemet mon Cv car j'ai fais quelle que modification desu
 imagine tu doi posser un jour pour ca 
 bahahahaha
 la honte-> , anglisisme, expresion "je
+githubceci est un test
+je usis un savnet fou un chercheur de l'amour j'ai recuepre des donner pour cree une ia qui poura detecter des faute d'orthographe j'ai 2 fichier, un ficheir conteient des prahse erroner l'autre ds phrase correct, de plus les ligne ce corpectodne entre les 2 fichier pour pouvoir ce referancer, comment cree un model en python est quelle type de model utiliser ? 
 
-github
+le pricnipe est de cree une palicaiton mobile au site web des jardin de cocagne cette aplciaiton pourai scaner des panier est afficher le trajet pour la livraison des paniere l'aplication serai utilie que du coter des client pas de partie admin sur l'app
+Voici une applicaiton 
+cree pour traduire est comprendre les mots du langague commun utiliser, cette aplciaito nestt une aplciaiton basic pour developper pour appendre Xcode est le swift cette aplicaiton fais apelle a l'api de urbanDiconary pour traduire les mots.
